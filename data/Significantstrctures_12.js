@@ -1,0 +1,31 @@
+var json_Significantstrctures_12 = {
+"type": "FeatureCollection",
+"name": "Significantstrctures_12",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAME": "Jabbama Jippu Jam Gate", "EASTINGS": 9.2118245, "NORTHINGS": 12.46702085 }, "geometry": { "type": "Point", "coordinates": [ 12.46702085, 9.2118245 ] } },
+{ "type": "Feature", "properties": { "NAME": "Fombina Palace Gate", "EASTINGS": 9.2066688, "NORTHINGS": 12.4755168 }, "geometry": { "type": "Point", "coordinates": [ 12.4755168, 9.2066688 ] } },
+{ "type": "Feature", "properties": { "NAME": "Mslim Council Adamawa State", "EASTINGS": 9.196517, "NORTHINGS": 12.482629 }, "geometry": { "type": "Point", "coordinates": [ 12.482629, 9.196517 ] } },
+{ "type": "Feature", "properties": { "NAME": "M-Peg Production Yola", "EASTINGS": 9.197214, "NORTHINGS": 12.48691 }, "geometry": { "type": "Point", "coordinates": [ 12.48691, 9.197214 ] } },
+{ "type": "Feature", "properties": { "NAME": "Binkolo Water Company", "EASTINGS": 9.205014, "NORTHINGS": 12.485377 }, "geometry": { "type": "Point", "coordinates": [ 12.485377, 9.205014 ] } },
+{ "type": "Feature", "properties": { "NAME": "Adamawa Sunshine", "EASTINGS": 9.204615, "NORTHINGS": 12.485821 }, "geometry": { "type": "Point", "coordinates": [ 12.485821, 9.204615 ] } },
+{ "type": "Feature", "properties": { "NAME": "Nigeran Security and Civil Defence Corps", "EASTINGS": 9.20767, "NORTHINGS": 12.47441 }, "geometry": { "type": "Point", "coordinates": [ 12.47441, 9.20767 ] } },
+{ "type": "Feature", "properties": { "NAME": "Vigilante Group of Nigera State Headquaters", "EASTINGS": 9.207161, "NORTHINGS": 12.474361 }, "geometry": { "type": "Point", "coordinates": [ 12.474361, 9.207161 ] } },
+{ "type": "Feature", "properties": { "NAME": "NITDA Digital Economy Centre", "EASTINGS": 9.196213, "NORTHINGS": 12.482659 }, "geometry": { "type": "Point", "coordinates": [ 12.482659, 9.196213 ] } },
+{ "type": "Feature", "properties": { "NAME": "AUN Staff Quaters", "EASTINGS": 9.19736, "NORTHINGS": 12.4742 }, "geometry": { "type": "Point", "coordinates": [ 12.4742, 9.19736 ] } },
+{ "type": "Feature", "properties": { "NAME": "Skymax Integrated Network Limited", "EASTINGS": 9.200758, "NORTHINGS": 12.482847 }, "geometry": { "type": "Point", "coordinates": [ 12.482847, 9.200758 ] } },
+{ "type": "Feature", "properties": { "NAME": "MIU.NET business centre", "EASTINGS": 9.2081493, "NORTHINGS": 12.4706604 }, "geometry": { "type": "Point", "coordinates": [ 12.4706604, 9.2081493 ] } },
+{ "type": "Feature", "properties": { "NAME": "lamido zubairu Complex", "EASTINGS": 9.20715, "NORTHINGS": 12.46625 }, "geometry": { "type": "Point", "coordinates": [ 12.46625, 9.20715 ] } },
+{ "type": "Feature", "properties": { "NAME": "Amana Shopping Complex", "EASTINGS": 9.197134, "NORTHINGS": 12.477288 }, "geometry": { "type": "Point", "coordinates": [ 12.477288, 9.197134 ] } },
+{ "type": "Feature", "properties": { "NAME": "EASY Wears Clothing Shop", "EASTINGS": 9.19737, "NORTHINGS": 12.476928 }, "geometry": { "type": "Point", "coordinates": [ 12.476928, 9.19737 ] } },
+{ "type": "Feature", "properties": { "NAME": "Orbit Stores Shopping Centre", "EASTINGS": 9.197457, "NORTHINGS": 12.4766 }, "geometry": { "type": "Point", "coordinates": [ 12.4766, 9.197457 ] } },
+{ "type": "Feature", "properties": { "NAME": "Yakubu Shopping Plaza", "EASTINGS": 9.1962225, "NORTHINGS": 12.4809935 }, "geometry": { "type": "Point", "coordinates": [ 12.4809935, 9.1962225 ] } },
+{ "type": "Feature", "properties": { "NAME": "G T Mega Plaza", "EASTINGS": 9.1966085, "NORTHINGS": 12.4881658 }, "geometry": { "type": "Point", "coordinates": [ 12.4881658, 9.1966085 ] } },
+{ "type": "Feature", "properties": { "NAME": "Yola Market", "EASTINGS": 9.204767, "NORTHINGS": 12.483489 }, "geometry": { "type": "Point", "coordinates": [ 12.483489, 9.204767 ] } },
+{ "type": "Feature", "properties": { "NAME": "Arc. Bello Ahmad Plaza", "EASTINGS": 9.196235, "NORTHINGS": 12.487529 }, "geometry": { "type": "Point", "coordinates": [ 12.487529, 9.196235 ] } },
+{ "type": "Feature", "properties": { "NAME": "Tafarki Essencials Concept Limited ", "EASTINGS": 9.1961967, "NORTHINGS": 12.4813279 }, "geometry": { "type": "Point", "coordinates": [ 12.4813279, 9.1961967 ] } },
+{ "type": "Feature", "properties": { "NAME": "Ramjaf Ventures Nig. Ltd.", "EASTINGS": 9.2071011, "NORTHINGS": 12.4738627 }, "geometry": { "type": "Point", "coordinates": [ 12.4738627, 9.2071011 ] } },
+{ "type": "Feature", "properties": { "NAME": "Fesare Supermaket", "EASTINGS": 9.202485, "NORTHINGS": 12.485808 }, "geometry": { "type": "Point", "coordinates": [ 12.485808, 9.202485 ] } },
+{ "type": "Feature", "properties": { "NAME": "IWA Fabrics", "EASTINGS": 9.204451, "NORTHINGS": 12.482864 }, "geometry": { "type": "Point", "coordinates": [ 12.482864, 9.204451 ] } }
+]
+}
